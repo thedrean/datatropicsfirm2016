@@ -1,0 +1,20 @@
+<ul class="nav" id="side">
+                    <li>
+                        <a href="#home">
+                            <i class="fa fa-home" aria-hidden="true"></i>
+                        </a>
+                    </li>
+                    <li><a href="#interests">
+                            <i class="fa fa-coffee"></i>
+                        </a>
+                    </li>
+                    <li><a href="#projects">
+                            <i class="fa fa-laptop"></i>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#contact">
+                            <i class="fa fa-share-alt"></i>
+                        </a>
+                    </li>
+            </ul>

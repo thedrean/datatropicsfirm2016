@@ -1,0 +1,65 @@
+@font-face{
+    font-family: 'scada';
+    src: url('../fonts/scada/Scada-Regular.ttf');
+}
+#background-drone{
+    transform: translate3d(0px, 200px, 0px);
+    background: url('../img/drone.jpg');
+    opacity: 1;
+    width: 100%;
+    background-repeat: no-repeat;
+}
+body{
+/*    background-color: #555555;*/
+    background-image: url('../img/graphy.png');
+}
+.galleria { 
+    width: 100%; 
+    height: 400px; 
+    background: #000;
+}
+.galleria{
+    margin: auto;
+    border-radius: 8px;
+}
+h1 h2, h3{
+    margin-top: 10vw;
+}
+h1{
+    text-align: center;
+}
+li {
+    display: list-item;
+}
+.nav{
+    
+}
+#maintitle{
+    font-size: 4vw;
+    font-family: scada;
+    margin-bottom: 2vw;
+}
+#side{
+        position: fixed;
+        left: 1vw;
+        line-height: 50px;
+        /* margin-top: -5%; */
+        text-align: left;
+        width: 90px;
+        z-index: 100;
+        color:red;
+}
+#topnav {
+    background-color: #23a3c6;
+    padding-left: 24vw;
+    height: 5vw;
+}
+#topnav li{
+    line-height: 5vw;
+    float: left;
+    padding-right: 20vw;
+    font-family: scada;
+
+}
+
+
